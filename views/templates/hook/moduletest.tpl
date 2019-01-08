@@ -1,0 +1,1 @@
+<div class="parpadea">{l s='Hola Este es mi primer módulo'}</div>
